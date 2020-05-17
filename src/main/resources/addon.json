@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "ChatMention",
+  "mainClass": "dev.larsii.chatmention.ChatMention",
+  "author": "5TC",
+  "description": "Notifies you if you got mentioned.",
+  "version": 1.0,
+  "category": 2
+}
